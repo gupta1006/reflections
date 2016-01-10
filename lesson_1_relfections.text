@@ -1,0 +1,12 @@
+viewing a diff between two versions of a file helps me see the bug 
+that was introduced because i can easily compare the exact 
+diferences between the two files, and the extra stuff wasn't there. 
+
+having easy access to the entire history of a file will make me a more 
+efficient programmer in the long term because i will be able to easily 
+track my steps and my debugging / iterating phases will become much 
+smoother.
+
+manually choosing a commit does have its drawbacks in terms of capturing the exact changes in version history and depends alot on the judgement of the user, i think that doing it manually will make me a lot more aware of my code. 
+
+i think the reasons this might be because of the efficiency of porcessing one file at a time? i have no idea
